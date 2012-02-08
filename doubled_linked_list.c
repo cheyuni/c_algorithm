@@ -2,15 +2,13 @@
 #include <stdlib.h>
 #include <conio.h>
 
-
 typedef struct _node{
     struct _node * next;
     struct _node * prev;
     int key;
 }node;
 
-node * head;
-node * tail;
+node * head, * tail;
 
 void init(){
     head = (node*)malloc(sizeof(node));
