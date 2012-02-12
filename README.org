@@ -1,0 +1,13 @@
+* algorithm and data structure
+** example program(I'll make)
+   - simple text_reader
+   - card_list management program
+
+** spec
+   - I'll use C programming language
+   - mac book(core duo, 2G(ram))
+   - Learning algorithm from c(Book -> Lee Jaekyu)
+   - git from git_hub(first use)
+
+** and happy hacking!!     
+     
