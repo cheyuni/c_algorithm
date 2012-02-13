@@ -9,5 +9,4 @@
    - Learning algorithm from c(Book -> Lee Jaekyu)
    - git from git_hub(first use)
 
-** and happy hacking!!     
-     
+** and happy hacking!!
