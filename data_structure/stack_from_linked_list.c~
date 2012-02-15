@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct _node{
+    struct _node * next;
+    int value;
+}node;
+
+int main(int argc, char *argv[])
+{
+    
+    return 0;
+}
+

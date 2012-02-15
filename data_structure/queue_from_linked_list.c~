@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct _queue()
+{
+    struct _queue * next;
+    struct _queue * prev;
+    int value;
+}queue;
+
+queue *tail, *head;
+int front, rear;
+
+void init_queue(){
+    head = (queue*)malloc(sizeof(queue));
+    tail = (queue*)malloc(sizeof(queue));
+    head -> prev = head;
+    head -> next = tail;
+    tail -> prev = head;
+    tail -> next = tail;
+}
+
+int main(int argc, char *argv[])
+{
+    
+
+    return 0;
+}
+
